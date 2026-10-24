@@ -1,0 +1,6 @@
+{
+  "name": "Doc AI - Intelligent RAG Document Assistant",
+  "description": "AI-Powered Document Intelligence Assistant using Retrieval-Augmented Generation (RAG) and Gemini. Upload PDFs and text documents, extract and chunk text, compute embeddings, and get context-grounded answers with source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
